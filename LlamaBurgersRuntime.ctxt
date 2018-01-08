@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=LlamaBurgersRuntime
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=o1\ o2\ o3\ o4
+comment2.target=double\ Revenue(LlamaBurgers,\ LlamaBurgers,\ LlamaBurgers,\ LlamaBurgers)
+numComments=3
